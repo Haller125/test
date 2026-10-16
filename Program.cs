@@ -1,4 +1,4 @@
-﻿int day = int.Parse(Console.ReadLine());
+﻿int day = int.Parse(Console.ReadLine() ?? "0");
 string name = day switch
 {
     1 => "Пн",
