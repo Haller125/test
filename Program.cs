@@ -7,7 +7,8 @@ string name = day switch
     4 => "Четверг",
     5 => "Пятница",
     6 or 7 => "Выходной!",
-    _ => "Нет такого дня..."
+    _ => "Нет такого дня"
 };
 Console.WriteLine(name);
 Console.WriteLine("Hello World   !");
+Console.WriteLine("Hello World!");
