@@ -10,3 +10,4 @@ string name = day switch
     _ => "Нет такого дня..."
 };
 Console.WriteLine(name);
+Console.WriteLine("Hello World!");
