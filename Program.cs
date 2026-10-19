@@ -12,3 +12,9 @@ string name = day switch
 Console.WriteLine(name);
 Console.WriteLine("Hello World!");
 Console.WriteLine("Hello World!");
+
+Console.WriteLine("Hello World!");
+Console.WriteLine("Hello World!");
+
+Console.WriteLine("Hello World!");
+Console.WriteLine("Hello World!");
